@@ -9,7 +9,7 @@ const {
     deleteThought,
     addReaction,
     removeReaction
-} = require('../../controllers/thought');
+} = require('');
 
 //set up GET and POST at /api/thoughts
 router  
